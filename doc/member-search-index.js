@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"application","c":"StaffActivityReportPage","l":"show(Stage, User)","u":"show(javafx.stage.Stage,application.User)"},{"p":"application","c":"StaffActivityReportPage","l":"StaffActivityReportPage(DatabaseHelper)","u":"%3Cinit%3E(databasePart1.DatabaseHelper)"}];updateSearchResults();
